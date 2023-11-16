@@ -1,0 +1,52 @@
+
+=====================================================
+Caricamento dei modelli doc2Vec 11/10/2023 19:15:19
+=====================================================
+
+Ephocs: 1
+Vector size: 50
+Execution time: 41.05810213088989ms
+
+Ephocs: 1
+Vector size: 100
+Execution time: 65.91687965393066ms
+
+Ephocs: 1
+Vector size: 200
+Execution time: 115.43621063232422ms
+
+Ephocs: 10
+Vector size: 50
+Execution time: 68.94298005104065ms
+
+Ephocs: 10
+Vector size: 100
+Execution time: 91.005117893219ms
+
+Ephocs: 10
+Vector size: 200
+Execution time: 139.4501872062683ms
+
+Ephocs: 30
+Vector size: 50
+Execution time: 130.7509367465973ms
+
+Ephocs: 30
+Vector size: 100
+Execution time: 150.2041096687317ms
+
+Ephocs: 30
+Vector size: 200
+Execution time: 204.41696953773499ms
+
+Ephocs: 50
+Vector size: 50
+Execution time: 190.59274864196777ms
+
+Ephocs: 50
+Vector size: 100
+Execution time: 212.58850765228271ms
+
+Ephocs: 50
+Vector size: 200
+Execution time: 271.870139837265ms
